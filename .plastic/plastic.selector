@@ -1,0 +1,4 @@
+repository "Universal3DSample6_0@Fried_Rice_Productions@cloud"
+  path "/"
+    br "/main"
+    co "/main"
