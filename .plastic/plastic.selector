@@ -1,4 +1,4 @@
-repository "Universal3DSample6_0@Fried_Rice_Productions@cloud"
+repository "Cloud Repositories/Universal3DSample6_0@1471565@cloud"
   path "/"
     br "/main"
     co "/main"
